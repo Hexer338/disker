@@ -19,7 +19,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "generic-pool": "~3.4.2",
+    "generic-pool": "~3.8.2",
     "key-forge": "~0.1.3",
     "redis": "~2.8.0"
   },
